@@ -10,6 +10,6 @@
 <ul>
   <li><a href="https://isratjahanr.github.io/IsratJahanR-github.io/">Israt Jahan Reshma</a></li>
   <li><a href="https://asfakshahrier.com/">Asfak Shahriur</a></li>
-  <li><a href="">Shanto</a></li>
+  <li><a href="">Shuvroto Kumar</a></li>
 </ul>
 
