@@ -4,7 +4,7 @@
 <h3>RQ1</h3>
 <h3>RQ2+3</h3>
 <ul>
-  <li><a href="https://github.com/IsratJahanR/LinkInTweetMessage/tree/main/RQ2%2B3">Coding results</a>: Target and purpose of links (n=2,127)</li>
+  <li><a href="https://github.com/IsratJahanR/LinkInTweetMessage/tree/main/RQ2%2B3">Coding results</a>: Target and purpose of links (n=2,125)</li>
 </ul>
 <h2>Authors</h2>
 <ul>
