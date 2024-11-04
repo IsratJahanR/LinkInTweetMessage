@@ -1,4 +1,4 @@
-<h1>Research Artifact:  Links in Tweet Messages:Analysis Purpose, Target, Category and Decay</h1>
+<h1>Research Artifact:  Links in Tweet Messages: Analysis Purpose, Target, Category and Decay</h1>
 <a href="https://github.com/IsratJahanR/LinkInTweetMessage/">https://github.com/IsratJahanR/LinkInTweetMessage/</a>
 <h2>Overview</h2>
 <h3>RQ1</h3>
