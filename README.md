@@ -1,4 +1,4 @@
-<h1>Research Artifact:  Links in Tweet Messages: Analysis Purpose, Target, Category and Decay</h1>
+<h1>Research Artifact:  Characterizing the Role of Link in Tweets by npm Maintainers: Source, Purpose and Decay</h1>
 <a href="https://github.com/IsratJahanR/LinkInTweetMessage/">https://github.com/IsratJahanR/LinkInTweetMessage/</a>
 <h2>Overview</h2>
 
