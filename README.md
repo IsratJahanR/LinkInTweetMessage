@@ -5,7 +5,7 @@
 This research artifact accompanies the paper <b>Characterizing the Role of Links in Tweets by npm Maintainers: Source, Purpose, and Decay.</b> This provides a comprehensive data repository containing 18,408 links. The dataset includes detailed information about link targets (such as blog posts, tutorials, and articles) and classifications based on their purposes, with a focus on understanding the patterns of prevalence, and link decay within the npm maintainer community on Twitter. github.com emerges as a frequently referenced domain but also accounts for a significant portion of the 5% decay rate observed. The purpose of this artifact is to enable researchers to replicate the mixed-methods results presented in the paper and to offer a valuable resource for further research into link usage and information dissemination practices in online communities. Due to file size limitations on platforms like GitHub, some data has been split into multiple files, ensuring accessibility and ease of use for research purposes.
 <h3>RQ1</h3>
 <ul> 
-<li> Resources for analyzing link prevalence, domain distribution, and tweet regularity.</li>
+<li><a href="https://github.com/IsratJahanR/LinkInTweetMessage/tree/main/RQ1">Coding results</a> Resources for analyzing link prevalence, domain distribution, and tweet regularity.</li>
 <li>Research Question: How prevalent are links in tweets? This examines the regularity, distribution, diversity, and spread of links shared by npm maintainers.</li>
 </ul>
 
