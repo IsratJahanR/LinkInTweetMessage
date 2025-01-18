@@ -12,6 +12,7 @@ This research artifact accompanies the paper <b>Characterizing the Role of Links
 <h3>RQ2+3+4</h3>
 <ul>
   <li><a href="https://github.com/IsratJahanR/LinkInTweetMessage/tree/main/RQ2%2B3%2B4">Coding results</a>: Target and purpose of links,category of Tweets (n=2,125)</li>
+  <li>This section explores the classification of link targets and their purposes, along with the primary topics shared in tweets by npm maintainers. Link targets such as blog posts, tutorials, and repositories are analyzed for their roles in providing context, clarifying discussions, or suggesting solutions. Additionally, tweet topics are categorized into themes like package management, notifications, and community-related content, highlighting the key areas of focus for npm maintainers on Twitter.</li>
 </ul>
 
 <h3>RQ5</h3>
