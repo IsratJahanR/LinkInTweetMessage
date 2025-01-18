@@ -26,5 +26,17 @@ This research artifact accompanies the paper <b>Characterizing the Role of Links
   <li><a href="https://isratjahanr.github.io/IsratJahanR-github.io/">Israt Jahan Reshma</a></li>
   <li><a href="https://asfakshahrier.com/">Asfak Shahriur</a></li>
   <li><a href="">Shuvroto Kumar</a></li>
+  <li><a href="https://github.com/syful-is"> Syful Islam</a></li>
+  <li><a href="https://github.com/yusufsn">Yusuf Sulistyo Nugroho</a></li>
+  <li><a href="">Tati Erlina</a></li>
 </ul>
+
+<h2>Authors' contributions</h2>
+ <li>Author 1, 2, and 3: Data Curation, Data analysis, performed the experiments, analyzed
+ the data, performed the computation work, prepared figures and tables, authored drafts of
+ the article.</li>
+ <li>Author 4, 5: Conceptualization, and designed the study methodology, prepared figures and
+ tables, authored or reviewed drafts of the article, and approved the final draft.</li>
+ <li>Author 6: Reviewed drafts of the article, and approved the final draft.</li>
+ 
 
