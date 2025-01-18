@@ -9,9 +9,9 @@ This research artifact accompanies the paper <b>Characterizing the Role of Links
 <li>Research Question: How prevalent are links in tweets? This examines the regularity, distribution, diversity, and spread of links shared by npm maintainers.</li>
 </ul>
 
-<h3>RQ2+3</h3>
+<h3>RQ2+3+4</h3>
 <ul>
-  <li><a href="https://github.com/IsratJahanR/LinkInTweetMessage/tree/main/RQ2%2B3">Coding results</a>: Target and purpose of links (n=2,125)</li>
+  <li><a href="https://github.com/IsratJahanR/LinkInTweetMessage/tree/main/RQ2%2B3%2B4">Coding results</a>: Target and purpose of links,category of Tweets (n=2,125)</li>
 </ul>
 <h2>Authors</h2>
 <ul>
